@@ -1,0 +1,6 @@
+Table 2: sample-efficiency multipliers (samples needed by class C to match F_Kinv at anchor N) / N
+
+Anchor N |    F_K  F_inv    F_0 (n=6) |    F_K  F_inv    F_0 (n=10)
+     200 |   1.9x   5.4x   9.1x       |   1.9x  12.9x  17.2x
+     500 |   2.2x   4.8x   8.3x       |   1.8x   9.8x  12.9x
+    1000 |   2.4x   4.6x   8.0x       |   1.8x   8.0x    ---
