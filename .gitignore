@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+__MACOSX/
+results/*_quick*.json
+results/*_fig.pdf
+results/*_ckpt.json
+results/*_checkpoint.json
